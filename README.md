@@ -1,2 +1,2 @@
-# Shell_scripts
+#Scripts
 Various scripts
